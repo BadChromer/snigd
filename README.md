@@ -1,3 +1,3 @@
-# SIGD
-Steam Ignored Games Delete <br>
-Allows you to delete steam ignored games
+# SNIGD
+Steam Not Interested Games Deletetion <br>
+Allows you to delete not interested games through your browser
